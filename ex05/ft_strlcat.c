@@ -6,7 +6,7 @@
 /*   By: tsabri <tsabri@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/31 15:48:38 by tsabri            #+#    #+#             */
-/*   Updated: 2024/08/31 17:57:10 by tsabri           ###   ########.fr       */
+/*   Updated: 2024/08/31 17:57:27 by tsabri           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,5 +55,5 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 // int	main(void)
 // {
 // 	char s[] = "Oi Mate";
-	
+
 // }
